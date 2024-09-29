@@ -1,3 +1,4 @@
+[![Build](https://github.com/fsinbad/anypay/actions/workflows/build.yml/badge.svg)](https://github.com/fsinbad/anypay/actions/workflows/build.yml)
 
 ![GitHub tag (latest SemVer)](https://img.shields.io/github/v/tag/anypay/anypay?style=for-the-badge)
 ![NPM Version](https://img.shields.io/npm/v/%40anypay%2Fserver?style=for-the-badge)
